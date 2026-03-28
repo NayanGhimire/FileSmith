@@ -225,4 +225,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built by Broddy — Nepal 🇳🇵*
+*Built by NayanGhimire — Nepal 🇳🇵*
